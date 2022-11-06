@@ -18,3 +18,10 @@ You can discover some range of projects in Javascript from beginner to advanced 
 <h2>4.Sidebar</h2>
 <p>This simple web application shows a sidebar that toggles when the toggle button is pressed.Also the close button (x) closes the sidebar.</p>
 <img width="710" alt="Screenshot 2022-11-06 at 11 53 19 PM" src="https://user-images.githubusercontent.com/54775910/200156490-f948391b-0ce3-4c03-b9a2-f755f0a03fd4.png">
+<h2>5.Modal Project</h2>
+<p> This simple application shows a modal page with a background image on it. When you click on the modal button it displays the content of the modal.</p>
+<img width="705" alt="Screenshot 2022-11-07 at 1 08 32 AM" src="https://user-images.githubusercontent.com/54775910/200158770-1f60ec96-bbd7-4dcf-a19a-6e86125b03f8.png"></img>
+
+
+<img width="690" alt="Screenshot 2022-11-07 at 1 08 51 AM" src="https://user-images.githubusercontent.com/54775910/200158779-2b378f6d-cbe9-4043-990d-c33080e7f3d3.png">
+
