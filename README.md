@@ -1,4 +1,4 @@
-# Javascript-Projects-from-beginner-to-pro
+# Javascript-Projects-BASIC
 You can discover some range of projects in Javascript from beginner to advanced level
 <h2>1.Color flipper</h2>
 <p>The color flipper application has two webpages as simple and hex.In the simple code, we can flip the color of the background by clicking a button into fixed amount of colors.In hex, we generate our own colors using hexadecimal digits.Therefore we have a multiple combination of colors.</p>
