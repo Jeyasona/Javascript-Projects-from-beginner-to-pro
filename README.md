@@ -24,4 +24,8 @@ You can discover some range of projects in Javascript from beginner to advanced 
 
 
 <img width="690" alt="Screenshot 2022-11-07 at 1 08 51 AM" src="https://user-images.githubusercontent.com/54775910/200158779-2b378f6d-cbe9-4043-990d-c33080e7f3d3.png">
+<h2>6.Questions</h2>
+<p>This application displays the Question and answer format.And wi=hen clicking the + button displays the answer</p>
+<img width="804" alt="Screenshot 2022-11-07 at 2 34 26 AM" src="https://user-images.githubusercontent.com/54775910/200161599-aafd9062-e337-4428-8c09-450f9e153d33.png">
+
 
