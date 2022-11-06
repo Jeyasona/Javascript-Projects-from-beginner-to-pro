@@ -27,5 +27,14 @@ You can discover some range of projects in Javascript from beginner to advanced 
 <h2>6.Questions</h2>
 <p>This application displays the Question and answer format.And wi=hen clicking the + button displays the answer</p>
 <img width="804" alt="Screenshot 2022-11-07 at 2 34 26 AM" src="https://user-images.githubusercontent.com/54775910/200161599-aafd9062-e337-4428-8c09-450f9e153d33.png">
+<h2>7.Menus</h2>
+<p>An application that displays the menu of a hotel.You can view either all the menus or the separate options alone(Breakfast lunch or shakes)</p>
+
+
+
+<img width="1180" alt="Screenshot 2022-11-06 at 8 37 52 AM" src="https://user-images.githubusercontent.com/54775910/200178765-c73cf649-4770-41c7-8628-695bbb4c9fe8.png">
+<img width="1180" alt="Screenshot 2022-11-06 at 8 38 27 AM" src="https://user-images.githubusercontent.com/54775910/200178774-128552c4-5b26-4817-b44e-c59b2460835e.png">
+
+
 
 
