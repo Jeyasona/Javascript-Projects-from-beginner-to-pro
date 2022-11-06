@@ -15,3 +15,6 @@ You can discover some range of projects in Javascript from beginner to advanced 
 <h2>3.Review</h2>
 <p>The Review webapplication shows the different review while sliding the left and right buttons.The SurpriseMe button displays a random review</p>
 <img width="765" alt="Screenshot 2022-11-06 at 2 45 14 AM" src="https://user-images.githubusercontent.com/54775910/200111757-b33f2009-443d-4554-8ed9-45ae9130476c.png">
+<h2>4.Sidebar</h2>
+<p>This simple web application shows a sidebar that toggles when the toggle button is pressed.Also the close button (x) closes the sidebar.</p>
+<img width="710" alt="Screenshot 2022-11-06 at 11 53 19 PM" src="https://user-images.githubusercontent.com/54775910/200156490-f948391b-0ce3-4c03-b9a2-f755f0a03fd4.png">
