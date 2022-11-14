@@ -34,6 +34,10 @@ You can discover some range of projects in Javascript from beginner to advanced 
 
 <img width="1180" alt="Screenshot 2022-11-06 at 8 37 52 AM" src="https://user-images.githubusercontent.com/54775910/200178765-c73cf649-4770-41c7-8628-695bbb4c9fe8.png">
 <img width="1180" alt="Screenshot 2022-11-06 at 8 38 27 AM" src="https://user-images.githubusercontent.com/54775910/200178774-128552c4-5b26-4817-b44e-c59b2460835e.png">
+<h2>8.Video Project</h2>
+<p>This application displays a video.And ther is a control for the user to play and pause the video using a slide button </p>
+<img width="1199" alt="Screenshot 2022-11-15 at 12 10 25 AM" src="https://user-images.githubusercontent.com/54775910/201740253-5a7f887e-1ee5-4439-8d67-23b1b75dd054.png">
+
 
 
 
