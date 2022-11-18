@@ -38,6 +38,14 @@ You can discover some range of projects in Javascript from beginner to advanced 
 <p>This application displays a video.And ther is a control for the user to play and pause the video using a slide button </p>
 <img width="1199" alt="Screenshot 2022-11-15 at 12 10 25 AM" src="https://user-images.githubusercontent.com/54775910/201740253-5a7f887e-1ee5-4439-8d67-23b1b75dd054.png">
 
+<h2>9.Scroll Project</h2>
+<p>Scroll application consists of nav bar that can be either toggled or displayed in full width based on screen.And you can smoothly scroll between the different categories in the navbar. </p>
+
+
+<img width="1236" alt="Screenshot 2022-11-18 at 9 51 22 AM" src="https://user-images.githubusercontent.com/54775910/202616214-abb8c91b-18bf-4d7b-bc10-b5e7deb223ad.png">
+
+<img width="647" alt="Screenshot 2022-11-18 at 9 51 44 AM" src="https://user-images.githubusercontent.com/54775910/202616273-b30d6ac1-835f-41fa-931e-3c6944826ef0.png">
+
 
 
 
