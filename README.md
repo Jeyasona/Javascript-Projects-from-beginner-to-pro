@@ -45,6 +45,14 @@ You can discover some range of projects in Javascript from beginner to advanced 
 <img width="1236" alt="Screenshot 2022-11-18 at 9 51 22 AM" src="https://user-images.githubusercontent.com/54775910/202616214-abb8c91b-18bf-4d7b-bc10-b5e7deb223ad.png">
 
 <img width="647" alt="Screenshot 2022-11-18 at 9 51 44 AM" src="https://user-images.githubusercontent.com/54775910/202616273-b30d6ac1-835f-41fa-931e-3c6944826ef0.png">
+<h2> Tabs </h2>
+
+<p> The tabs web application allows the user to switch between tabs displayed in the window </p>
+
+<img width="1437" alt="Screenshot 2022-11-20 at 12 08 58 AM" src="https://user-images.githubusercontent.com/54775910/202866657-67ff8549-5fef-458b-927d-8da376d17810.png">
+
+
+
 
 
 
