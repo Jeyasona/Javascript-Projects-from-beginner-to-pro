@@ -50,10 +50,10 @@ You can discover some range of projects in Javascript from beginner to advanced 
 <p> The tabs web application allows the user to switch between tabs displayed in the window </p>
 
 <img width="1437" alt="Screenshot 2022-11-20 at 12 08 58 AM" src="https://user-images.githubusercontent.com/54775910/202866657-67ff8549-5fef-458b-927d-8da376d17810.png">
-<h2>Count Down Timer </h2>
+<h2>10.Count Down Timer </h2>
 <p>The Timer application displays the run down time for a giveaway product. </p>
 <img width="1246" alt="Screenshot 2022-11-20 at 6 26 54 PM" src="https://user-images.githubusercontent.com/54775910/202903103-575c4625-ae54-4d75-a657-2c159e55d9e2.png">
-<h2> Lorem Ipsum </h2>
+<h2>11. Lorem Ipsum </h2>
 <p>Lorem Ipsum is a web application that generates random lorem ipsum paragraphs </p>
 <img width="938" alt="Screenshot 2022-11-21 at 9 42 03 PM" src="https://user-images.githubusercontent.com/54775910/203107399-9f7a5254-6a4e-413e-b5f4-aecf48b8de99.png">
 
