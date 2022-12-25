@@ -56,9 +56,9 @@ You can discover some range of projects in Javascript from beginner to advanced 
 <h2>11. Lorem Ipsum </h2>
 <p>Lorem Ipsum is a web application that generates random lorem ipsum paragraphs </p>
 <img width="938" alt="Screenshot 2022-11-21 at 9 42 03 PM" src="https://user-images.githubusercontent.com/54775910/203107399-9f7a5254-6a4e-413e-b5f4-aecf48b8de99.png">
-
-
-
+<h2>Dice Challenge</h2>
+<p>In Dice Challenge, there are two players.The one who rolls the highest wins.
+<img width="1188" alt="Screenshot 2022-12-25 at 12 53 13 PM" src="https://user-images.githubusercontent.com/54775910/209460064-947b17e9-75f4-4a14-845f-0dc5db8a60fb.png">
 
 
 
