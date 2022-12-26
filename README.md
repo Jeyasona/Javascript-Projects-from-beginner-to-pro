@@ -61,7 +61,7 @@ You can discover some range of projects in Javascript from beginner to advanced 
 <img width="1188" alt="Screenshot 2022-12-25 at 12 53 13 PM" src="https://user-images.githubusercontent.com/54775910/209460064-947b17e9-75f4-4a14-845f-0dc5db8a60fb.png">
 <h2>DrumKit </h2>
 <p>The Drum kit offers the seven keys which will play music when pressed.It can listen to both keydown and mouse events.</p>
-<img width="1415" alt="Screenshot 2022-12-26 at 3 25 32 PM" src="https://user-images.githubusercontent.com/54775910/209535006-870d79d5-d178-4a79-bfcf-dc6920e63352.png">
+<img width="1228" alt="Screenshot 2022-12-26 at 3 28 49 PM" src="https://user-images.githubusercontent.com/54775910/209535485-e9166818-718c-4a30-ab50-adc7cd29883a.png">
 
 
 
